@@ -1,0 +1,27 @@
+{
+  "name": "kaur_sabnit_chatapp",
+  "version": "1.0.0",
+  "description": "Chat application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabnitkaur01/kaur_sabnit_chatApp.git"
+  },
+  "author": "sabnit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabnitkaur01/kaur_sabnit_chatApp/issues"
+  },
+  "homepage": "https://github.com/sabnitkaur01/kaur_sabnit_chatApp#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "mysql": "^2.18.1",
+    "underscore": "^1.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
