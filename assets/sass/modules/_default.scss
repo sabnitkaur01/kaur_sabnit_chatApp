@@ -1,0 +1,48 @@
+
+* {
+    border: none;
+    margin: 0;
+    padding: 0;
+    
+    box-sizing: border-box;
+    
+}
+
+
+
+body {
+    background-color: $main-bg-color;
+    color: $main-text-color;
+
+    font-family: $default-family;
+    font-size: 16px;
+}
+
+
+
+a{
+    display: block;
+    color: white;
+
+    
+    margin: 1rem 0;;
+}
+
+
+
+.new-message {
+    padding: 10px;
+    background-color: rgb(11, 11, 192);
+    color: white;
+
+    border-radius: 8px;
+    float: left;
+    clear: both;
+}
+
+
+
+.my-message {
+    background-color: rgb(5, 66, 5);
+    float: right;
+}

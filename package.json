@@ -4,24 +4,20 @@
   "description": "Chat application",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    
+    "start-dev": "nodemon app",
+    "start-ui": "browser-sync start --proxy 'localhost:5050' --files '*.html' 'public'",
+    "start": "node app"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sabnitkaur01/kaur_sabnit_chatApp.git"
   },
+  "keywords": [],
   "author": "sabnit",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sabnitkaur01/kaur_sabnit_chatApp/issues"
-  },
-  "homepage": "https://github.com/sabnitkaur01/kaur_sabnit_chatApp#readme",
   "dependencies": {
-    "gulp": "^4.0.2",
-    "mysql": "^2.18.1",
-    "underscore": "^1.12.0"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.7"
+   "express": "^4.17.1",
+   "socket.io": "^2.2.0"
   }
 }
