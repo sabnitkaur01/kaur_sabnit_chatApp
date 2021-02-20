@@ -4,7 +4,7 @@
 
 ### Live link with heroku
 
-* 
+*  This is my heroku link [click here](https://dashboard.heroku.com/apps/kaurchat/deploy/github)
 
 ### Table of Content
 
