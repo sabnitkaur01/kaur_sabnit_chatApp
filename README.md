@@ -1,6 +1,6 @@
 # kaur_sabnit_chatApp
 
-![project image](images/readMe.png)
+![project image](public/images/readMe.png)
 
 ### Table of Content
 
