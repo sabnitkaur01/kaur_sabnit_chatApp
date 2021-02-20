@@ -1,6 +1,6 @@
 # kaur_sabnit_chatApp
 
-![project image](images/readMe.png)
+![project image](public/images/readMe.png)
 
 ### Table of Content
 
@@ -20,7 +20,7 @@
 ## Explaination!
  * Basically this is a chat application.
 
- * This is my Doc with steps and my story [click here](https://docs.google.com/document/d/1o7CUoC-u4E5WLST4wYdXIdamw_KW9m5aBDxqYKrXbv0/edit?usp=sharing)
+ * This is my Doc with steps and my story [click here](https://docs.google.com/document/d/121zWUKrqFffpem8MESZtGw_qwoM6dcxuAg2ZJ5uFSLo/edit?usp=sharing)
 
 ## Software
 * Github
